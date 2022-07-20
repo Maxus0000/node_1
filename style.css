@@ -1,0 +1,20 @@
+body {
+  height: 300vh;
+}
+.subscribe {
+  position: fixed;
+  width: 80%;
+  height: 80vh;
+  left: 10%;
+  top: 10vh;
+  background-color: aquamarine;
+}
+.subscribe_heading {
+  text-align: center;
+  padding: 20px;
+}
+.subscribe > p {
+  font-size: 18px;
+  padding: 0 20px;
+}
+

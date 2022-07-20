@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Alex",
+    "age": 20,
+    "array": [1, 2, 3, 4],
+    "info": { "hobby": "music", "email": "alex@gmail.com" }
+  },
+  {
+    "id": 2,
+    "name": "Nik",
+    "age": 20,
+    "array": [1, 2, 3, 4],
+    "info": { "hobby": "music", "email": "alex@gmail.com" }
+  },
+  {
+    "id": 3,
+    "name": "Mik",
+    "age": 20,
+    "array": [1, 2, 3, 4],
+    "info": { "hobby": "music", "email": "alex@gmail.com" }
+  },
+  {
+    "id": 4,
+    "name": "Tom",
+    "age": 20,
+    "array": [1, 2, 3, 4],
+    "info": { "hobby": "music", "email": "alex@gmail.com" }
+  }
+]
